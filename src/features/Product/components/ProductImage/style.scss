@@ -1,0 +1,12 @@
+.product .product-image {
+    flex-basis: 40%;
+    max-width: 40%;
+    padding-right: 30px;
+    .image {
+        width: 100%;
+        border: 1px solid #ccc;
+        img {
+            display: block;
+        }
+    }
+}
